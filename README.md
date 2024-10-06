@@ -1,0 +1,2 @@
+# Parallelized-Number-Plate-Detec-on-System-using-OpenCV-TensorFlow
+This project implements a Parallelized Number Plate Detection System using OpenCV and TensorFlow. It enables real-time detection and recognition of vehicle license plates, enhancing efficiency in automated toll collection and traffic monitoring. The system leverages advanced image processing and machine learning techniques for improved accuracy.
